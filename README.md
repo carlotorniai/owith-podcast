@@ -15,8 +15,9 @@ Inbox for the daily OWITH.ai episode. Claude produces each episode in Anthropic'
 | Path | Purpose |
 |---|---|
 | `render/tts_render.py` | Offline text to speech used by the cloud job |
+| `render/dedupe_check.py` | Repeat guard: blocks stories already told in the last 7 days |
 | `prompts/daily_task_prompt.md` | The scheduled task's instructions |
-| branch `episodes` | Every script, sources list and metadata, one folder per day |
+| branch `episodes` | Every script, sources list, `stories.json` ledger and metadata, one folder per day |
 | branch `audio-inbox` | Only the next episode's files, force pushed daily |
 
 ## Security model
@@ -24,3 +25,4 @@ Inbox for the daily OWITH.ai episode. Claude produces each episode in Anthropic'
 * The publishing token sits in a separate private repo that the Claude GitHub app is not installed on, so the cloud job can neither read it nor change the publishing code.
 * The publisher treats staged files as untrusted data: schema, sizes, MP3 header, duration and hashes are validated before upload. Nothing from this repo is executed there.
 * The voice model download is pinned by SHA256.
+* No repeats: the cloud job checks each story against the 7 day ledger before writing, and the publisher checks again against the last five episodes actually published on Buzzsprout.
