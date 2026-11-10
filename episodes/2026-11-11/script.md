@@ -1,0 +1,21 @@
+# Nvidia CEO Probe Hits Shares, Anthropic Ships Fable 5.2 | OWITH Daily
+
+Good morning from OWITH.ai, the briefing that gives you only what's important to hear in AI and tech. It's Wednesday, November 11.
+
+Today we start with the turmoil around Nvidia's chief executive, then look at Anthropic's new flagship models and its pending stock market debut.
+
+Reuters reports that Microsoft overtook Nvidia on Tuesday to become the world's second most valuable company. Nvidia shares fell more than six percent, to about one hundred sixty seven dollars, after a drop of roughly four percent on Monday. The trigger is an investigation into whether Jensen Huang was the target of a foreign intelligence effort. Yahoo Finance describes a board inquiry into Huang's reported affair with an alleged Chinese spy. Why it matters: Nvidia sits at the center of the AI supply chain, and its identity is closely tied to its founder. Any doubt about leadership now weighs on the whole sector's most important stock.
+
+Anthropic released two new models on Monday, Claude Fable 5.2 and Mythos 5.2, according to Gizmodo. Both run on the same underlying model. Fable is broadly available, while Mythos has fewer safeguards on cybersecurity and biology work and is limited to vetted organizations. Pricing is eight dollars per million input tokens and forty dollars per million output tokens. Anthropic also acknowledges that both models show more awareness of being tested than earlier versions. Separately, Yahoo Finance reports the company plans to sell eight hundred twenty five million shares at seventy to seventy eight dollars each in its public offering. The launch gives investors a fresh product story right before that listing.
+
+Google moved the next day. VentureBeat reports that Gemini 4 Carbon became generally available on Tuesday through the paid Gemini API and Gemini for business. Through November thirtieth it costs two dollars per million input tokens and ten dollars for output, a quarter of Fable's input price. After that the rate doubles, matching Claude Opus 5.5. On the Artificial Analysis index, Fable still leads with sixty five points to Carbon's sixty, but the same firm estimates Carbon's average cost per task at under eight dollars versus about twenty seven for Fable. For buyers, the choice between top models is now as much about price as capability.
+
+Markets had their own problem. October consumer prices rose four tenths of a percent, above the three tenths economists expected, and core prices also beat forecasts, Yahoo Finance reports. Traders now put the odds of a quarter point Federal Reserve hike in December at about eighty four percent. Governor Christopher Waller had said a hot reading should put a half point move on the table, and bets on that larger step jumped to fifteen percent. The ten year Treasury yield climbed to four point nine three percent, and the Nasdaq fell more than one percent. Higher rates raise the cost of the capital that funds the AI buildout.
+
+In funding, The Next Web reports that Bay, a Tel Aviv startup less than a year old, emerged from stealth with fifty million dollars. Battery Ventures led a thirty seven million dollar Series A, with Microsoft's venture arm M12 and Wiz chief executive Assaf Rappaport joining. Bay checks every action an AI agent proposes and allows it, blocks it, or sends it to a person for approval. Customers include Micron, Peloton and Wix. As companies hand real permissions to software agents, controlling what those agents do becomes a budget line of its own, and investors are crowding in.
+
+Finally, life sciences. PMLiVE reports that argenx will buy Unnatural Products for up to about one point one five billion dollars, with five hundred fifty million paid upfront from cash. The American biotech designs macrocycles, ring shaped peptides that can reach targets antibodies struggle with. Argenx chief executive Karen Massey called the capabilities highly complementary to its antibody engineering. The deal is expected to close by year end. It shows established biotechs buying discovery platforms outright rather than renting them through partnerships.
+
+The thread today is trust and cost: who leads, what models are allowed to do, and what capital will cost as AI spending keeps climbing.
+
+That's it for today. Thanks for listening to OWITH.ai. See you tomorrow.

@@ -1,0 +1,83 @@
+[
+  {
+    "headline": "Nvidia slides as Jensen Huang faces foreign intelligence probe; Microsoft overtakes it in market value",
+    "keywords": [
+      "Nvidia",
+      "Jensen Huang",
+      "Microsoft",
+      "Nvidia board investigation"
+    ],
+    "urls": [
+      "https://www.investing.com/news/stock-market-news/microsoft-tops-nvidias-market-cap-for-first-time-since-june-2025-5016363",
+      "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+    ]
+  },
+  {
+    "headline": "Anthropic releases Claude Fable 5.2 and gated Mythos 5.2, sets IPO price range",
+    "keywords": [
+      "Anthropic",
+      "Claude Fable 5.2",
+      "Mythos 5.2",
+      "Cyber Verification Program",
+      "Gizmodo"
+    ],
+    "urls": [
+      "https://gizmodo.com/anthropics-says-its-new-ai-model-can-solve-black-hole-mysteries-what-could-go-wrong-2000837274",
+      "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+    ]
+  },
+  {
+    "headline": "Google makes Gemini 4 Carbon generally available at introductory prices below rivals",
+    "keywords": [
+      "Google",
+      "Gemini 4 Carbon",
+      "Gemini API",
+      "Artificial Analysis",
+      "Fairwind",
+      "VentureBeat"
+    ],
+    "urls": [
+      "https://venturebeat.com/technology/google-gemini-4-carbon-is-now-publicly-available-and-it-undercuts-claude-fable-5-2-and-opus-5-5-on-api-price"
+    ]
+  },
+  {
+    "headline": "Hotter October CPI lifts odds of a December Fed rate hike and hits tech stocks",
+    "keywords": [
+      "October CPI",
+      "Federal Reserve",
+      "Christopher Waller",
+      "CME FedWatch",
+      "Nasdaq Composite"
+    ],
+    "urls": [
+      "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+    ]
+  },
+  {
+    "headline": "Tel Aviv startup Bay raises fifty million dollars to police AI agent actions",
+    "keywords": [
+      "Bay",
+      "Battery Ventures",
+      "M12",
+      "Yuval Zacharia",
+      "Assaf Rappaport",
+      "YL Ventures"
+    ],
+    "urls": [
+      "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures"
+    ]
+  },
+  {
+    "headline": "argenx to acquire Unnatural Products in deal worth up to 1.15 billion dollars",
+    "keywords": [
+      "argenx",
+      "Unnatural Products",
+      "Karen Massey",
+      "Cameron Pye",
+      "macrocycles"
+    ],
+    "urls": [
+      "https://pmlive.com/pharma_news/argenx-to-acquire-biotech-unnatural-products-for-1-15bn"
+    ]
+  }
+]

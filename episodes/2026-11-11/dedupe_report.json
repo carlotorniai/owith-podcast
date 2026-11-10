@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-11",
+  "window_days": 7,
+  "ledger_stories": 0,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Nvidia slides as Jensen Huang faces foreign intelligence probe; Microsoft overtakes it in market value",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Anthropic releases Claude Fable 5.2 and gated Mythos 5.2, sets IPO price range",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Google makes Gemini 4 Carbon generally available at introductory prices below rivals",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Hotter October CPI lifts odds of a December Fed rate hike and hits tech stocks",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Tel Aviv startup Bay raises fifty million dollars to police AI agent actions",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "argenx to acquire Unnatural Products in deal worth up to 1.15 billion dollars",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
