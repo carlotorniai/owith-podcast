@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-12",
+  "window_days": 7,
+  "ledger_stories": 6,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Anthropic commits 3.4 billion dollars to OnePWR gas generators to power its own data centers",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Google Cloud launches Gemini for Healthcare with Northwell, HCA and Optum as launch customers",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Uber, DoorDash and Airbnb say consumer AI agents barely move their order volumes",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "CBO estimates a 409 billion dollar October deficit as Treasury borrows over 100 billion a week",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Memories.ai launches Memories Upload, paying gig workers with LUCI Pin cameras to film robot training video",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "J. Crew launches Style Advisor shopping assistant built on Anthropic's Claude models",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}

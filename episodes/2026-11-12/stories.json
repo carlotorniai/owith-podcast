@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "Anthropic commits 3.4 billion dollars to OnePWR gas generators to power its own data centers",
+    "keywords": ["Anthropic", "OnePWR Solutions", "Caterpillar", "Piper Sandler", "Anthropic Direct", "Financial Times"],
+    "urls": ["https://fortune.com/2026/11/10/anthropic-3-4-billion-deal-gas-data-centers-ai-ipo/"]
+  },
+  {
+    "headline": "Google Cloud launches Gemini for Healthcare with Northwell, HCA and Optum as launch customers",
+    "keywords": ["Gemini for Healthcare", "Google Cloud", "Northwell Health", "HCA Healthcare", "Optum", "Highmark Health", "Epic", "John D'Angelo"],
+    "urls": ["https://fortune.com/2026/11/10/google-gemini-for-healthcare-and-hospitals-northwell-medical-costs-affordability-insurance/"]
+  },
+  {
+    "headline": "Uber, DoorDash and Airbnb say consumer AI agents barely move their order volumes",
+    "keywords": ["Uber", "DoorDash", "Airbnb", "Balaji Krishnamurthy", "Tony Xu", "Brian Chesky", "Dara Khosrowshahi"],
+    "urls": ["https://fortune.com/2026/11/10/ai-agents-uber-doordash-airbnb-limited-traction/"]
+  },
+  {
+    "headline": "CBO estimates a 409 billion dollar October deficit as Treasury borrows over 100 billion a week",
+    "keywords": ["Congressional Budget Office", "Treasury", "Scott Bessent", "fiscal 2027", "Treasury twist"],
+    "urls": ["https://fortune.com/2026/11/10/cbo-october-budget-treasury-deficit-100-billion-weekly/"]
+  },
+  {
+    "headline": "Memories.ai launches Memories Upload, paying gig workers with LUCI Pin cameras to film robot training video",
+    "keywords": ["Memories.ai", "Memories Upload", "LUCI Pin", "Shawn Shen", "Susa Ventures", "Nvidia Cosmos"],
+    "urls": ["https://fortune.com/2026/11/10/exclusive-in-the-race-for-robot-training-data-ex-meta-researchers-startup-turns-to-gig-workers-with-cameras/"]
+  },
+  {
+    "headline": "J. Crew launches Style Advisor shopping assistant built on Anthropic's Claude models",
+    "keywords": ["J. Crew", "Style Advisor", "Danielle Schmelkin", "Second Thread", "McKinsey"],
+    "urls": ["https://fortune.com/2026/11/11/jcrew-anthropic-ai-style-advisor/"]
+  }
+]
