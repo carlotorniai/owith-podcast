@@ -1,0 +1,48 @@
+{
+  "target_date": "2026-11-13",
+  "window_days": 7,
+  "ledger_stories": 12,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim CEO and Harvey Jones board chair",
+      "verdict": "FOLLOWUP",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-11#1 with new fact"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "headline": "PitchBook data shows cracks in venture capital ahead of a bellwether AI IPO",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Databricks launches always-on Genie agents and Ontology for enterprise data",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Munich drone software startup SE3 raises 30 million dollar Series A led by Accel",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Importers move to win automatic refunds of 166 billion dollars in IEEPA tariffs",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "BU's Mark Williams warns CFOs to plan AI spending for a rising cost of capital",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}

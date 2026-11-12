@@ -1,0 +1,90 @@
+[
+  {
+    "headline": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim CEO and Harvey Jones board chair",
+    "keywords": [
+      "Nvidia",
+      "Jensen Huang",
+      "Colette Kress",
+      "Harvey Jones",
+      "Kimberly Powell",
+      "Rosen Law"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
+      "https://fortune.com/2026/11/12/ceo-jensen-huang-net-worth-drops-10-billion-nvidia-stock-slides-fallout-affair-scandals-company-exec-alleged-spy/"
+    ],
+    "follow_up_of": "2026-11-11#1",
+    "new_fact": "On November 12 Huang resigned as CEO; the board named CFO Colette Kress interim CEO, appointed Harvey Jones as its first chair and began a search for a permanent CEO."
+  },
+  {
+    "headline": "PitchBook data shows cracks in venture capital ahead of a bellwether AI IPO",
+    "keywords": [
+      "PitchBook",
+      "Emily Zheng",
+      "Term Sheet",
+      "Airtable",
+      "Bending Spoons",
+      "Kevin Warsh",
+      "Figma",
+      "Cerebras"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/12/cracks-in-venture-capital-pitchbook-zheng-ipo-outlook-exits-ai-valuations-debt-anthropic/"
+    ]
+  },
+  {
+    "headline": "Databricks launches always-on Genie agents and Ontology for enterprise data",
+    "keywords": [
+      "Databricks",
+      "Genie",
+      "Ontology",
+      "Ali Ghodsi"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/11/databricks/"
+    ]
+  },
+  {
+    "headline": "Munich drone software startup SE3 raises 30 million dollar Series A led by Accel",
+    "keywords": [
+      "SE3",
+      "Accel",
+      "Lukas Koestler",
+      "Bundeswehr",
+      "Technical University of Munich",
+      "Daniel Cremers",
+      "Hensoldt",
+      "Auterion"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/"
+    ]
+  },
+  {
+    "headline": "Importers move to win automatic refunds of 166 billion dollars in IEEPA tariffs",
+    "keywords": [
+      "Court of International Trade",
+      "Richard Eaton",
+      "IEEPA",
+      "Freestyle World",
+      "Customs and Border Protection",
+      "Lieff Cabraser"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/12/tariff-refund-class-action-lawsuit-universal-tariff-refunds-trump-administration/"
+    ]
+  },
+  {
+    "headline": "BU's Mark Williams warns CFOs to plan AI spending for a rising cost of capital",
+    "keywords": [
+      "Mark Williams",
+      "Boston University",
+      "Questrom School of Business",
+      "Fortune Modern CFO",
+      "Deloitte"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/12/cfo-face-a-tough-choice-on-ai-spending-as-borrowing-costs-rise-expert-warns/"
+    ]
+  }
+]
