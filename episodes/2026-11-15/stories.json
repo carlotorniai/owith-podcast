@@ -1,0 +1,110 @@
+[
+  {
+    "headline": "OpenAI disbands its stand-alone robotics team as GPT-6 Astra starts running robots",
+    "keywords": [
+      "OpenAI",
+      "Mark Chen",
+      "Greg Brockman",
+      "GPT-6 Astra",
+      "CoRL",
+      "Guanya Shi",
+      "Russ Tedrake"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    ]
+  },
+  {
+    "headline": "FAA nationwide ground stop traced to L3Harris contractor's copper to fiber switch flooding routers",
+    "keywords": [
+      "FAA",
+      "L3Harris",
+      "Bryan Bedford",
+      "Sean Duffy",
+      "Kash Patel",
+      "AT&T",
+      "Verizon",
+      "Lumen"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/14/faa-ground-stop-telecom-router-cybersecurity-white-house-situation-room-national-security-apparatus-l3harris/"
+    ]
+  },
+  {
+    "headline": "Microsoft 365 email and Teams outage disrupts courts, police and hospitals",
+    "keywords": [
+      "Microsoft",
+      "Outlook",
+      "Teams",
+      "LAPD",
+      "NHS",
+      "Unity Health Toronto",
+      "GAO"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/13/microsoft-outage-courts-police-hospitals-it-monoculture/"
+    ]
+  },
+  {
+    "headline": "Voters restricted data centers in 40 of 41 local midterm ballot measures",
+    "keywords": [
+      "Ballotpedia",
+      "Harwood",
+      "Edgewater",
+      "Alhambra",
+      "Gina Hinojosa",
+      "Ratepayer Protection Act",
+      "DataCenterWatch"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/13/voters-data-centers-ballot-measures-midterms/"
+    ]
+  },
+  {
+    "headline": "Keel Infrastructure, the former Bitfarms, pivots from Bitcoin mining to AI data center power but delays leases",
+    "keywords": [
+      "Keel Infrastructure",
+      "Bitfarms",
+      "Ben Gagnon",
+      "Stronghold Digital",
+      "Panther Creek",
+      "Moses Lake",
+      "Scrubgrass"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush/"
+    ]
+  },
+  {
+    "headline": "Senate Banking Committee asks Jensen Huang and Howard Lutnick to testify on national security concerns",
+    "keywords": [
+      "Senate Banking Committee",
+      "Tim Scott",
+      "Jensen Huang",
+      "Howard Lutnick",
+      "Elizabeth Warren",
+      "Jim Banks",
+      "Nvidia"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/"
+    ],
+    "follow_up_of": "2026-11-13#1",
+    "new_fact": "On November 13 Senate Banking chair Tim Scott asked Huang and Commerce Secretary Lutnick to testify in December over export control and national security concerns, threatening subpoenas if they decline.",
+    "review_note": "The November 11 story covered the intelligence probe and share slide; this is a new event, a Senate committee request on November 13 for Huang and Lutnick to testify, told as an update."
+  },
+  {
+    "headline": "Bank of America survey: 72 percent of Americans won't use AI for holiday shopping",
+    "keywords": [
+      "Bank of America",
+      "Lora Monfared",
+      "Colleen Kirk",
+      "ChatGPT Wallet",
+      "Meta Muse",
+      "Adobe"
+    ],
+    "urls": [
+      "https://fortune.com/2026/11/14/ai-holiday-shopping-bank-of-america-survey-2026/"
+    ]
+  }
+]

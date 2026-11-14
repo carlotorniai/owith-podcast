@@ -1,0 +1,58 @@
+{
+  "target_date": "2026-11-15",
+  "window_days": 7,
+  "ledger_stories": 18,
+  "results": [
+    {
+      "n": 1,
+      "headline": "OpenAI disbands its stand-alone robotics team as GPT-6 Astra starts running robots",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "FAA nationwide ground stop traced to L3Harris contractor's copper to fiber switch flooding routers",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Microsoft 365 email and Teams outage disrupts courts, police and hospitals",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Voters restricted data centers in 40 of 41 local midterm ballot measures",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Keel Infrastructure, the former Bitfarms, pivots from Bitcoin mining to AI data center power but delays leases",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Senate Banking Committee asks Jensen Huang and Howard Lutnick to testify on national security concerns",
+      "verdict": "REVIEWED",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-13#1 with new fact"
+        },
+        {
+          "level": "REVIEW",
+          "why": "partial overlap with 2026-11-11#1 ('Nvidia slides as Jensen Huang faces foreign intelligence probe; Microsoft overtakes it in market value'); shared ['jensen huang', 'nvidia']"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "headline": "Bank of America survey: 72 percent of Americans won't use AI for holiday shopping",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
