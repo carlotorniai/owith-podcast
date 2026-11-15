@@ -1,0 +1,22 @@
+[
+  {"headline": "Treasury Secretary Scott Bessent questions Nvidia's culture of export compliance and urges an outside CEO search",
+   "keywords": ["Scott Bessent", "Nvidia", "Megaspeed", "OCC", "Sunday Morning Futures", "Colette Kress", "Lisa Su", "Rene Haas"],
+   "urls": ["https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/"],
+   "follow_up_of": "2026-11-13#1",
+   "new_fact": "On November 15 Bessent said on Fox News that Nvidia would face regulator intervention if it were a bank, called for an outside CEO search, and said Treasury had backed blacklisting Megaspeed for months."},
+  {"headline": "AI labs race to hire counterintelligence officers as Anthropic, OpenAI and Nvidia step up spy defenses",
+   "keywords": ["Anthropic", "OpenAI", "Revelio Labs", "Eric O'Neill", "Christopher Falkenberg", "Paul Nakasone", "ASML"],
+   "urls": ["https://fortune.com/2026/11/14/ai-industrial-espionage-counterintelligence-jobs-china-spying-nvidia-jensen-huang-pentagon-economic-warfare/"]},
+  {"headline": "Otter.ai reaches 100 million dollars in annual revenue and 40 million users",
+   "keywords": ["Otter.ai", "Sam Liang", "Yun Fu", "AISense", "Alohar Mobile"],
+   "urls": ["https://fortune.com/2026/11/15/otter-ai-millionaire-ceo-sam-liang-millionaire-ai-notetaker-arnold-schwarzenegger-smoothie-china-american-dream-frugal-routine/"]},
+  {"headline": "Tesla's Optimus ramp is bumpy while Agility Robotics lists on Nasdaq with 300 million dollars in orders",
+   "keywords": ["Tesla", "Optimus", "Elon Musk", "Agility Robotics", "Digit", "Amazon", "Fremont", "GXO"],
+   "urls": ["https://fortune.com/2026/11/14/capek-rur-humanoid-robots-tesla-optimus-amazon-agility/"]},
+  {"headline": "Nextpower, the former Nextracker, triples backlog to over six billion dollars and pitches batteries to AI data centers",
+   "keywords": ["Nextpower", "Nextracker", "Dan Shugar", "Jefferies", "Zimmermann PV-Steel", "Prevalon Energy", "Zigor"],
+   "urls": ["https://fortune.com/2026/11/14/future-renewable-energy-nextpower-backbone-solar-sector/"]},
+  {"headline": "Alpha School's internal data shows half of K-8 students missed its AI tutoring math target",
+   "keywords": ["Alpha School", "TimeBack", "MacKenzie Price", "Houston ISD", "Mike Miles", "Linda McMahon"],
+   "urls": ["https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"]}
+]

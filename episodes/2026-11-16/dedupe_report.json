@@ -1,0 +1,48 @@
+{
+  "target_date": "2026-11-16",
+  "window_days": 7,
+  "ledger_stories": 25,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Treasury Secretary Scott Bessent questions Nvidia's culture of export compliance and urges an outside CEO search",
+      "verdict": "FOLLOWUP",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-13#1 with new fact"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "headline": "AI labs race to hire counterintelligence officers as Anthropic, OpenAI and Nvidia step up spy defenses",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Otter.ai reaches 100 million dollars in annual revenue and 40 million users",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Tesla's Optimus ramp is bumpy while Agility Robotics lists on Nasdaq with 300 million dollars in orders",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Nextpower, the former Nextracker, triples backlog to over six billion dollars and pitches batteries to AI data centers",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Alpha School's internal data shows half of K-8 students missed its AI tutoring math target",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
