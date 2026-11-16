@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-17",
+  "window_days": 7,
+  "ledger_stories": 31,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Commerce Department requires licenses for AI chip exports to data centers in Singapore, Malaysia, Indonesia, Thailand and Brazil",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Jane Street's 1.34 billion dollar purchase of FTX's Anthropic stake could be worth over 35 billion after the IPO",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Goldman Sachs 2027 outlook says the AI layoff wave is delayed until the next downturn",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Wharton and Accenture find over 90 percent of agent tasks can run on cheaper models",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Verizon CEO Dan Schulman says AI will automate outsourced customer service while complex calls return to the U.S.",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Chase, Wells Fargo, Bank of America and U.S. Bank customers hit by Monday outages",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
