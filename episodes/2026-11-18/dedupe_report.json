@@ -1,0 +1,56 @@
+{
+  "target_date": "2026-11-18",
+  "window_days": 7,
+  "ledger_stories": 37,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Fed's first look at AI data center leverage finds over three trillion dollars of commitments off Big Tech balance sheets",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "BofA fund manager survey shows the biggest cut to tech holdings since 2006 as investors expect a hyperscaler capex cut",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Isomorphic Labs raises five billion dollar Series C led by Greenoaks and Sequoia",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "OpenAI names TensorWave as first neocloud for its six gigawatt AMD deal",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Cognition launches Devin Bots to manage teams of coding agents over weeks",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Jensen Huang agrees to closed door interviews with three House committees on December 1 as Nvidia board rules out his return",
+      "verdict": "REVIEWED",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-15#6 with new fact"
+        },
+        {
+          "level": "REVIEW",
+          "why": "partial overlap with 2026-11-13#1 ('Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim CEO and Harvey Jones board chair'); shared ['jensen huang', 'nvidia']"
+        },
+        {
+          "level": "REVIEW",
+          "why": "partial overlap with 2026-11-11#1 ('Nvidia slides as Jensen Huang faces foreign intelligence probe; Microsoft overtakes it in market value'); shared ['jensen huang', 'nvidia']"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+ {
+  "headline": "Fed's first look at AI data center leverage finds over three trillion dollars of commitments off Big Tech balance sheets",
+  "keywords": [
+   "Federal Reserve",
+   "Financial Stability Report",
+   "Michael Barr",
+   "Kevin Warsh",
+   "SB Energy",
+   "Pike County",
+   "Lucent",
+   "Winstar"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/17/fed-financial-stability-report-ai-data-center-3-trillion-off-balance-sheet-nvidia/"
+  ]
+ },
+ {
+  "headline": "BofA fund manager survey shows the biggest cut to tech holdings since 2006 as investors expect a hyperscaler capex cut",
+  "keywords": [
+   "Global Fund Manager Survey",
+   "Michael Hartnett",
+   "Ben Snider",
+   "FactSet",
+   "Capital Economics",
+   "Joe Maher",
+   "Michael Burry"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/17/ai-bubble-popping-bofa-fund-manager-survey-largest-cut-since-2006/"
+  ]
+ },
+ {
+  "headline": "Isomorphic Labs raises five billion dollar Series C led by Greenoaks and Sequoia",
+  "keywords": [
+   "Isomorphic Labs",
+   "Demis Hassabis",
+   "Greenoaks",
+   "Sequoia Capital",
+   "Andreessen Horowitz",
+   "Dealroom",
+   "Google DeepMind"
+  ],
+  "urls": [
+   "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html"
+  ]
+ },
+ {
+  "headline": "OpenAI names TensorWave as first neocloud for its six gigawatt AMD deal",
+  "keywords": [
+   "OpenAI",
+   "TensorWave",
+   "AMD",
+   "Jalapeno",
+   "Broadcom",
+   "Abilene",
+   "Supercomputing 2026",
+   "Sam Altman"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/17/openai-reveals-first-amd-neocloud-provider-amid-nvidia-collapsejensen-huang-launching-his-comeback-campaign/"
+  ]
+ },
+ {
+  "headline": "Cognition launches Devin Bots to manage teams of coding agents over weeks",
+  "keywords": [
+   "Cognition",
+   "Devin Bots",
+   "Devin",
+   "Scott Wu",
+   "Citigroup",
+   "Jane Fraser",
+   "Duet",
+   "Dots",
+   "The Interaction Company"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/"
+  ]
+ },
+ {
+  "headline": "Jensen Huang agrees to closed door interviews with three House committees on December 1 as Nvidia board rules out his return",
+  "keywords": [
+   "Jensen Huang",
+   "Nvidia",
+   "Tim Teter",
+   "Brian Mast",
+   "John Moolenaar",
+   "Rick Crawford",
+   "House Select Committee on the CCP",
+   "Wachtell Lipton"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/17/jensen-huang-nvidia-house-committee-return-ceo-testimony/"
+  ],
+  "follow_up_of": "2026-11-15#6",
+  "new_fact": "On November 17 the chairs of the House Foreign Affairs, China Select and Intelligence committees announced that Huang will give a closed door transcribed interview on December 1 and Nvidia general counsel Tim Teter on December 2, while a person familiar told CNBC the board is not considering his return.",
+  "review_note": "The November 11 and 13 stories covered the stock slide, the intelligence probe and the resignation itself; this is a new event, the December 1 House testimony agreement announced November 17, told as an update to the November 15 testimony request story."
+ }
+]
