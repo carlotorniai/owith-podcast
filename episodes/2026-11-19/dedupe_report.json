@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-19",
+  "window_days": 7,
+  "ledger_stories": 37,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Nvidia beats with 115.8 billion dollars in quarterly revenue and raises its outlook as interim CEO Colette Kress debuts, while filings show 58.1 billion dollars of equity investments",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "ECB Financial Stability Review counts over four trillion dollars of off-balance-sheet Big Tech commitments and warns of dotcom and subprime parallels",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Botched AI-driven patching linked to this week's bank and NSA outages",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "GAO testers got ChatGPT, Claude, Gemini and Grok to produce viable attack plans",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "DoorDash's 17 billion dollar Instacart deal spotlights Sequoia partners sitting on both rivals' boards",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "BrightAI raises 97 million dollars at a 750 million dollar valuation for infrastructure monitoring",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
