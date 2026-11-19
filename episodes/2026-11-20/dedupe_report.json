@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-20",
+  "window_days": 7,
+  "ledger_stories": 37,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Anthropic opens 34 percent above its 83 dollar IPO price in a 79 billion dollar listing, with Amazon and Google holding 28 percent in nonvoting shares",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Fed minutes show almost all officials expect more rate hikes as AI buildout demand spreads price pressure",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "AWS Marketplace lets AI agents research and buy software on preset budgets",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Waymo suspends driverless freeway rides nationwide after California DMV calls them an imminent hazard",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "US Series A funding hits 42 billion dollars through October, up 60 percent, while deal counts stay flat",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Tony Fadell invests about 10 million dollars in Smartex and becomes chairman as it pitches AI fabric inspection to H&M",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
