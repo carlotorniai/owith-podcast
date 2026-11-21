@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-22",
+  "window_days": 7,
+  "ledger_stories": 37,
+  "results": [
+    {
+      "n": 1,
+      "headline": "S&P 500 closes in a correction as Nvidia drops 14 percent; Goldman Sachs lists three signs of a bottom",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Meta employees say the Muse AI agent surfaced private Signal messages and bank balances",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Chicago, New York and Los Angeles schools push back on Google's AI Overviews or no Search ultimatum",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "CSET researchers: U.S. chip data centers are serving Chinese open weight models such as DeepSeek and Kimi K3",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Intuit sells Mailchimp to Bending Spoons for about 3.68 billion dollars after paying 12 billion",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Defense tech venture funding hits a record 37.9 billion dollars in the third quarter as investors warn of 2021 style froth",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
