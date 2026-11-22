@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-23",
+  "window_days": 7,
+  "ledger_stories": 36,
+  "results": [
+    {
+      "n": 1,
+      "headline": "SpaceX's 74 billion dollar AI data center plan in Texas and Arizona faces questions over who pays for power",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Howden analysis: data center power demand grows 19 percent a year while U.S. grid capacity grows 2 percent",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "DonorPerfect and GoFundMe Pro hit by cyberattacks ahead of Giving Tuesday, with AI bots suspected",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Tribe AI reaches a 100 million dollar revenue run rate helping companies like Koch put AI into production",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Remote CEO Job van der Voort ties performance reviews to a mandatory five hour AI course",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Seramount survey: only 18 percent of Gen Z workers want to build AI skills",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
