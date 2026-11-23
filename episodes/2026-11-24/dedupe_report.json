@@ -1,0 +1,48 @@
+{
+  "target_date": "2026-11-24",
+  "window_days": 7,
+  "ledger_stories": 36,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Nvidia's board unanimously reinstates Jensen Huang as CEO, citing government input that he poses no national security risk; shares jump about 30 percent",
+      "verdict": "FOLLOWUP",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-18#6 with new fact"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "headline": "Oracle shares hit their lowest level since January 2024 on AI debt worries, pushing Larry Ellison out of the world's top 10 richest",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Anthropic IPO creates 598 non-founder centimillionaires, more than London, Paris or Los Angeles",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Japan Exchange Group CEO Hiromi Yamaji says Tokyo will fall less than Seoul or Taipei as the AI trade cools",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Omdia forecasts the biggest smartphone shipment drop ever as AI data centers outbid phone makers for chips; Oppo targets Europe's premium market",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "LinkedIn CEO Daniel Shapero calls the job market frozen but says AI gives Gen Z an edge in hiring",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
