@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-25",
+  "window_days": 7,
+  "ledger_stories": 36,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Meta AI chief Alexandr Wang says superintelligence is arriving, citing a claimed Riemann hypothesis proof made with Anthropic's Claude",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Stripe says new customer sign-ups rose 50 percent as the Collisons argue the Singularity began in January; McKinsey finds modest AI earnings gains",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "BQP builds autopilot software for satellites as NASA puts the cost of orbital debris at 58 million dollars a year",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Cerebras CEO Andrew Feldman says the chipmaker has made over 1,000 employees millionaires and urges them to diversify",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "A decade after Geoffrey Hinton said to stop training radiologists, the Bay Area is about 600 imaging technologists short",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "AidFinder pitches states an AI case manager for disaster survivors as FEMA pushes recovery onto states",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
