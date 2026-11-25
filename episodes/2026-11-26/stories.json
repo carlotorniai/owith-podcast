@@ -1,0 +1,105 @@
+[
+ {
+  "headline": "Federal jury in New York convicts Huawei on 10 of 12 counts including bank fraud and trade secret theft, acquits on racketeering",
+  "keywords": [
+   "Huawei",
+   "Joseph Nocella",
+   "Brian Heberlig",
+   "Meng Wanzhou",
+   "Skycom",
+   "Ascend",
+   "Dexter Tiff Roberts",
+   "Atlantic Council"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/25/huawei-us-trial-racketeering-china-national-champion/"
+  ]
+ },
+ {
+  "headline": "Meta and Amazon discuss a deal to end Amazon's blockade of the Muse shopping agent, with ads and search as sticking points",
+  "keywords": [
+   "Meta",
+   "Muse",
+   "Amazon",
+   "Andy Jassy",
+   "Alexa for shopping",
+   "Mark Zuckerberg",
+   "National Retail Federation",
+   "Morgan Stanley",
+   "Shopify",
+   "Walmart"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/"
+  ],
+  "review_note": "The November 22 story was about Muse surfacing private messages to Meta employees; this is a different event, an exclusive on Meta and Amazon negotiating to end Amazon's blockade of Muse shopping."
+ },
+ {
+  "headline": "OpenAI chief scientist Jakub Pachocki proposes a shared perplexity threshold to coordinate a frontier AI slowdown",
+  "keywords": [
+   "Jakub Pachocki",
+   "OpenAI",
+   "perplexity",
+   "GPT-6.2 Astra",
+   "Mustafa Suleyman",
+   "MAI-2",
+   "Robert Trager",
+   "Miles Brundage",
+   "METR"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/24/openai-chief-scientist-thinks-perplexity-might-be-the-key-to-coordinating-an-ai-slowdown/"
+  ]
+ },
+ {
+  "headline": "Anthropic shares close below their 83 dollar IPO price for the first time as analysts split on whether to buy",
+  "keywords": [
+   "Anthropic",
+   "Needham",
+   "Scott Berg",
+   "Wedbush",
+   "Canaccord Genuity",
+   "Ken Mahoney",
+   "Mahoney Asset Management",
+   "Neostellar Capital"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/25/wall-street-anthropic-steal-generational-opportunity-stock-below-ipo-price/"
+  ],
+  "follow_up_of": "2026-11-20#1",
+  "new_fact": "On November 24, 2026 Anthropic stock fell nearly 7 percent and closed at 81.92 dollars, below its 83 dollar IPO price for the first time."
+ },
+ {
+  "headline": "Europe has committed 15.9 billion dollars to quantum technology but attracts about 5 percent of private investment as Pasqal and IQM list on Nasdaq",
+  "keywords": [
+   "Pasqal",
+   "IQM",
+   "Alice & Bob",
+   "Riverlane",
+   "Steve Brierley",
+   "Wasiq Bokhari",
+   "Quantum Act",
+   "Alessandro Curioni",
+   "PsiQuantum"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/25/europe-has-spent-15-9-billion-win-quantum-race/"
+  ]
+ },
+ {
+  "headline": "Gap uses Cognition's Devin agent to find and fix website glitches ahead of Black Friday; Lowe's runs chaos tests",
+  "keywords": [
+   "Gap",
+   "Sven Gerjets",
+   "Cognition",
+   "Devin",
+   "Richard Dickson",
+   "Lowe's",
+   "Seemantini Godbole",
+   "TikTok Shop"
+  ],
+  "urls": [
+   "https://fortune.com/2026/11/25/after-a-week-of-outages-that-put-it-resiliency-to-the-test-cios-are-already-preparing-for-the-next-disruption-2/"
+  ]
+ }
+]

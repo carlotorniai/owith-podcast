@@ -1,0 +1,48 @@
+{
+  "target_date": "2026-11-26",
+  "window_days": 7,
+  "ledger_stories": 36,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Federal jury in New York convicts Huawei on 10 of 12 counts including bank fraud and trade secret theft, acquits on racketeering",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Meta and Amazon discuss a deal to end Amazon's blockade of the Muse shopping agent, with ads and search as sticking points",
+      "verdict": "REVIEWED",
+      "hits": [
+        {
+          "level": "REVIEW",
+          "why": "partial overlap with 2026-11-22#2 ('Meta employees say the Muse AI agent surfaced private Signal messages and bank balances'); shared ['meta', 'muse']"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "headline": "OpenAI chief scientist Jakub Pachocki proposes a shared perplexity threshold to coordinate a frontier AI slowdown",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Anthropic shares close below their 83 dollar IPO price for the first time as analysts split on whether to buy",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Europe has committed 15.9 billion dollars to quantum technology but attracts about 5 percent of private investment as Pasqal and IQM list on Nasdaq",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Gap uses Cognition's Devin agent to find and fix website glitches ahead of Black Friday; Lowe's runs chaos tests",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
