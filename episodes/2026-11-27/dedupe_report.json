@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-27",
+  "window_days": 7,
+  "ledger_stories": 36,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Businesses embrace good enough open weight AI as 56 percent of Vercel gateway tokens go to open models, while Washington eyes Chinese model disclosure",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Qualcomm CMO Don McGuire reshapes marketing for the post Apple era as Qualcomm targets 5 billion dollars in data center revenue",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Tony Fadell says OpenAI needs a Jony Ive device because Apple will never share the real world data ChatGPT needs",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Reddit COO Jen Wong says loyal logged in users are the answer as shares fall 62 percent on AI search worries",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Cadence CEO Chris Altchek and former CMS official Adam Boehler urge Medicare to cut prices for AI enabled care, starting with heart failure",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Every raises 17.5 million dollars at a 110 million dollar valuation; Leash Biosciences raises 11 million for AI drug discovery data",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
